@@ -1,4 +1,4 @@
-#Sketch of Data&Algorithm
+#Sketch of Data Structure&Algorithm
 By [jas0n1ee](mailto:i@jas0n1ee.me)  
 内容皆为白铂老师课件中节选  
 
